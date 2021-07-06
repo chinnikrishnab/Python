@@ -2,5 +2,12 @@ Variable in python - Variable is a reserved memory location to store values. In 
 Variable Types - Every value in Python has a datatype. Different data types in Python are Numbers, List, Strings, Dictionary, etc. Variables in Python can be declared by any name or even alphabets like a, aa, abc, etc.
 Declare and print Variable
             a=10
-            print(a)
+            print (a)
             
+Re-declare a Variable and Print
+                        # Declare a variable and initialize it
+                        f = 0
+                        print (f)
+                        # re-declaring the variable works
+                        f = 'guru99'
+                        print (f)
